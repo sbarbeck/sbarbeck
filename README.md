@@ -2,10 +2,19 @@
 
 *Sarah Beck*
 
-[![linkedin](https://www.linkedin.com/in/sarahbbeck/ (LinkedIn))][https://www.linkedin.com/in/sarahbbeck/]
+- 📫 How to reach me: [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn1.png (LinkedIn))][1]
+[1]: https://www.linkedin.com/in/sarahbbeck/ 
+
+
 
 
 <!--
+
+- 🔭 I’m currently working on posts like this: 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0">
+
+
 **sbarbeck/sbarbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
