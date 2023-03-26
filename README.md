@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+*Sarah Beck*
+
+[![linkedin](https://www.linkedin.com/in/sarahbbeck/ (LinkedIn))][https://www.linkedin.com/in/sarahbbeck/]
+
+
 <!--
 **sbarbeck/sbarbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
